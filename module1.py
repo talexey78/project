@@ -12,8 +12,8 @@
 def main():
 
     print("hello")
-    name=input("input name")
-    print("go",name )
+    name=input("input name ")
+    print("go ",name )
     pass
 
 if __name__ == '__main__':
